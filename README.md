@@ -1,7 +1,7 @@
 # Reset-CSS
 
 ## About
-This is a very paired down version of a reset CSS that uses the * selector for minimum specificity, defaults to border-box styling, an accesible line-height of 1.5 and a min-font size of 16pt.
+This is a very paired down version of a reset CSS that uses the * selector for minimum specificity, defaults to border-box styling, an accesible line-height of 1.5 and min-font size of 16pt.
 
 ## Usage
 Download the reset.css file and link to it before any of your main styling, or just copy and paste the file contents at the top of your first-linked css file.
